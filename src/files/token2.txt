@@ -1,0 +1,1 @@
+{"access_token":"lw1kp3h6m2v9toz2qtjwwsfhblns27","expires_in":15347,"refresh_token":"bq2t00my7kppwad1jst6ructveipub3bbb6747g9i9q2oyreae","scope":["moderator:read:chatters"],"token_type":"bearer"}
